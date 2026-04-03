@@ -46,5 +46,71 @@
     "file": "universfield-yeah-boy-114748.mp3",
     "emoji": "🔥",
     "description": "A hype button for wins, reveals, and dramatic entrances."
+  },
+  {
+    "description": "A quick cough for awkward pauses and tiny interruptions.",
+    "name": "Short Cough",
+    "emoji": "😶",
+    "file": "alex_jauk-short-cough-noise-440270.mp3"
+  },
+  {
+    "description": "A triumphant ding-loaded cue for wins and fake victories.",
+    "name": "Mission Accomplished",
+    "emoji": "✅",
+    "file": "cartoon-music-soundtrack-mission-accomplished-enthusiastic-meme-voice-amp-ding-489716.mp3"
+  },
+  {
+    "description": "Loud, proud, and ready to overreact on command.",
+    "name": "Air Horn",
+    "emoji": "📯",
+    "file": "dragon-studio-air-horn-sound-effect-372453.mp3"
+  },
+  {
+    "description": "A second bruh variant for extra disappointment coverage.",
+    "name": "Bruh Alternate",
+    "emoji": "😑",
+    "file": "freesound_community-bruh-sound-effect-1-6970 (1).mp3"
+  },
+  {
+    "description": "The universal reaction to deeply questionable decisions.",
+    "name": "Bruh",
+    "emoji": "🙄",
+    "file": "freesound_community-bruh-sound-effect-1-6970.mp3"
+  },
+  {
+    "description": "A loud greeting with immediate early-internet energy.",
+    "name": "Wazzup Man",
+    "emoji": "📣",
+    "file": "u_xfie8d944c-wazzup-man-251797.mp3"
+  },
+  {
+    "description": "A goofy musical sting for silly reveals and pratfalls.",
+    "name": "Comedy Flute",
+    "emoji": "🎶",
+    "file": "universfield-comedy-flute-144564.mp3"
+  },
+  {
+    "description": "A full-volume panic button for dramatic moments.",
+    "name": "Man Scream",
+    "emoji": "😱",
+    "file": "universfield-man-scream-121085.mp3"
+  },
+  {
+    "description": "A compact reaction sound for surprise and shade.",
+    "name": "Ooh",
+    "emoji": "😮",
+    "file": "universfield-ooh-123103.mp3"
+  },
+  {
+    "description": "A sharp metallic hit for chaos, fails, and bonks.",
+    "name": "Pipe Hit",
+    "emoji": "🔩",
+    "file": "universfield-pipe-117724.mp3"
+  },
+  {
+    "description": "A clean astonishment cue that fits almost anywhere.",
+    "name": "Wow",
+    "emoji": "🤩",
+    "file": "universfield-wow-121578.mp3"
   }
 ]

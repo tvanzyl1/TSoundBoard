@@ -10,5 +10,41 @@
     "file": "universfield-sinister-laugh-140131.mp3",
     "emoji": "😈",
     "description": "For villain mode, plotting, and suspicious victories."
+  },
+  {
+    "description": "A sudden laugh explosion for strong reaction moments.",
+    "name": "Burst Laughing",
+    "emoji": "🤣",
+    "file": "alex_jauk-burst-laughing-funny-sound-372557.mp3"
+  },
+  {
+    "description": "A celebratory laugh that feels smug in the best way.",
+    "name": "Winner Laugh",
+    "emoji": "🏆",
+    "file": "ocho2-ochoochogift-winner-laugh-154997.mp3"
+  },
+  {
+    "description": "Simple, quick laughter that slots into almost anything.",
+    "name": "Hahaha",
+    "emoji": "😄",
+    "file": "u_xfie8d944c-hahaha-251796.mp3"
+  },
+  {
+    "description": "A solid all-purpose laugh with easy comic timing.",
+    "name": "Laughing Man",
+    "emoji": "🧍",
+    "file": "universfield-laughing-man-117725.mp3"
+  },
+  {
+    "description": "An echoing laugh for extra dramatic punchlines.",
+    "name": "Ha Ha Echo",
+    "emoji": "🌀",
+    "file": "yoursperfectguy-ha-ha-echo-sound-effect-sfx-333777.mp3"
+  },
+  {
+    "description": "A villain-flavored echo laugh for suspicious victories.",
+    "name": "Evil Ha Ha Echo",
+    "emoji": "👹",
+    "file": "yoursperfectguy-ha-ha-evil-echo-sound-sfx-333780.mp3"
   }
 ]
