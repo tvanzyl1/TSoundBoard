@@ -112,5 +112,23 @@
     "name": "Wow",
     "emoji": "🤩",
     "file": "universfield-wow-121578.mp3"
+  },
+  {
+    "description": "Heavy chaos music for when things escalate immediately.",
+    "emoji": "🔥",
+    "file": "doom-theme_-made-with-Voicemod.mp3",
+    "name": "Doom Theme"
+  },
+  {
+    "description": "A crisp reload cue for tension and timing.",
+    "emoji": "🔫",
+    "file": "gun-reload-made-with-Voicemod.mp3",
+    "name": "Gun Reload"
+  },
+  {
+    "description": "A chunkier reload sound with extra dramatic weight.",
+    "emoji": "💥",
+    "file": "shotgun-reload-made-with-Voicemod.mp3",
+    "name": "Shotgun Reload"
   }
 ]
